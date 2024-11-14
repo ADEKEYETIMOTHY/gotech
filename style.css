@@ -1,0 +1,37 @@
+/*.form{
+    background-color: lemonchiffon;
+    border: 10px;
+    margin: 10px;
+    padding: 100px;
+    
+}*/
+
+    form .username {
+       background-color:rgb(142, 188, 50);
+        border: 10px;
+        margin: 10px;
+        padding: 10px;
+
+    }
+    form .firstname{
+       background-color: black;
+        border: 4px;
+        margin: 10px;
+        padding: 10px;
+        width: 20px;
+    }
+    form .lastname{
+        background-color:  aquamarine;
+        border: 6px;
+        margin: 10px;
+        padding: 10px;
+    }
+    form .login{
+        background-color: burlywood;
+        border: 5px;
+        margin: 10px;
+        padding: 10px;
+    }
+    form .login::placeholder{
+        color: white;
+    }

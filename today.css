@@ -1,0 +1,19 @@
+body{
+    width: 100px;
+    height: 100px;
+    margin: 0em;
+
+}
+.navbar{
+    width: 100%;
+    padding: 1.5rem o;
+    color: red;
+    
+}
+a{
+    text-decoration: none;
+}
+.navbar .cont {
+    display: flex;
+    
+}

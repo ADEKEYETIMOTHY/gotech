@@ -1,0 +1,46 @@
+*{
+    margin 0;
+    padding: 0;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+
+}
+.cont{
+    background-image: url(./flower.jpg);
+    font-size: 1em;
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+    margin: 0px 0px;
+    padding: 4em;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+    border: 2em;
+    text-align: center;
+
+}
+p{
+    color: white;
+    font-size: 2em;
+    font-size: 2rem;
+}
+ h1{
+    color: white;
+    border: 5px solid;
+    border-radius: 2px;
+    border-width: 1em;
+    padding: 10px;
+    margin: 10px;
+ }
+ main{
+    text-decoration: none;
+    display flex: ;
+    
+ }

@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+}
+.flex{
+    display: grid;
+    
+    grid-template-columns: row;
+    
+}
+nav{
+    margin: 1rem;
+background-size: 2px;
+gap: 1rem;
+width: 100%;
+}

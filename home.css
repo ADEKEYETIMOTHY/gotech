@@ -1,0 +1,43 @@
+body{
+    background-image: url(/aa23.jpg);
+    background-size: cover;
+}
+
+
+
+
+div{
+    background-color:lightgray;
+    color: black;
+}
+div #a{
+    color: blue;
+    height: 20px;
+    border: 10px solid;
+    font-size: 2em;
+    font-weight: 10;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+.d{
+    background-color: rgba(137, 43, 226, 0.674);
+    color: red;
+    border: 10px;
+    display: block;
+    padding: 20px;
+}
+main{
+    background-color: black;
+    color: white;
+}
+section{
+    background-color: blueviolet;
+    color: lime;
+}
+nav{
+    color: red ;
+}
+li{
+    list-style: none;
+}
